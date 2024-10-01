@@ -1,0 +1,22 @@
+export const stories = [
+  {
+    image:
+      "https://images.pexels.com/photos/26922659/pexels-photo-26922659/free-photo-of-train-on-railway-in-countryside.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+  },
+  {
+    image:
+      "https://images.pexels.com/photos/28028874/pexels-photo-28028874/free-photo-of-a-woman-with-red-hair-sitting-in-a-chair-with-a-camera.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+  },
+  {
+    image:
+      "https://images.pexels.com/photos/28281605/pexels-photo-28281605/free-photo-of-a-red-staircase-leading-to-a-jungle.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+  },
+  {
+    image:
+      "https://images.pexels.com/photos/11154667/pexels-photo-11154667.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+  },
+  {
+    image:
+      "https://images.pexels.com/photos/28336588/pexels-photo-28336588/free-photo-of-a-person-holding-up-a-photo-of-the-tv-tower.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+  },
+];
